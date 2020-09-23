@@ -1,0 +1,8 @@
+.idea
+.vars
+.terraform
+*.iml
+/images
+/private_key
+/seeds
+/terraform.tfstate*
